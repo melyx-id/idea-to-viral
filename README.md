@@ -69,7 +69,7 @@ Get your API token at [cp.idea2viral.com/api-keys](https://cp.idea2viral.com/api
 
 ## 🎬 Demo
 
-Try it without signup at [Hugging Face Space →](https://huggingface.co/spaces/idea2viral/idea-to-viral) (rate-limited, watermarked).
+Try it without signup at [Hugging Face Space →](https://huggingface.co/spaces/melyxdev/idea-to-viral) (rate-limited, watermarked).
 
 ![demo](assets/demo.gif)
 
